@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/coder",
+      "prod_uri":"mysql://root:@localhost/coder",
+      "fb_url":"https://facebook.com/coder",
+      "tw_url":"https://twitter.com/coder",
+      "gh_url": "https://github.com/coder",
+      "blog_name": "coder",
+      "tag_line": "Heaven for programmers",
+      "login_image":"login.svg",
+      "gmail-user":"nikhil0101786@gmail.com",
+      "gmail-password":"Nikhil@786",
+      "about_text": "I create programming tutorials and I am a good boy",
+      "no_of_posts": 2,
+      "admin_user":"nikhil",
+      "admin_password": "iloveyou",
+      "upload_location":"C:\\Users\\NIKHIL\\Projects\\static\\assets\\img"
+    }
+  }
+  
